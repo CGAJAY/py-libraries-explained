@@ -1,16 +1,11 @@
-# 🐼 Pandas Examples - Beginner Friendly
+# 🎨 Matplotlib Basics - Mini Course
 
-This branch contains beginner-friendly examples using the **Pandas** library in Python. Each example is well-commented to help new learners understand how to manipulate and analyze data using Pandas.
+This is a beginner-friendly mini-course that teaches you how to use [Matplotlib](https://matplotlib.org/) to visualize data in Python.
 
-## ✅ Topics Covered
+### 📦 Requirements
 
--   Creating DataFrames
--   Accessing columns
--   Filtering rows based on conditions
--   Renaming columns
--   Handling missing values
--   Sorting data
--   Grouping and aggregation
--   Adding or modifying columns
--   Concatenating and merging DataFrames
--   Creating pivot tables
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
